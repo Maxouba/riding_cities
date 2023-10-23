@@ -1,5 +1,3 @@
-#page-riding-cities
-
 LE CONTEXTE :
 
 Vous rejoignez l’agence Webonzaï pour un stage en tant que développeur junior.
