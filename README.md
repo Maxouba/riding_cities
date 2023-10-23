@@ -9,4 +9,5 @@ Romain, votre maître de stage et CTO, est en déplacement professionnel la sema
 ❓ Le but de ce projet ?
 
 👉 Découverte du langage HTML par l'intégration de section avec les membres fondateurs de l'association sur la base d'une page internet déjà existante.
+
 👉 Modifier la section comprenant le bouton “Télécharger le planning de cours” pour ajouter un titre et deux boutons permettant de télécharger deux plannings de cours différents (un pour les enfants et un pour les adultes).
